@@ -60,6 +60,9 @@
 .icon-user:before {
   content: "\f007";
 }
+.icon-airbnb:before {
+  content: "\f834";
+}
 .icon-film:before {
   content: "\f008";
 }
