@@ -60,10 +60,15 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
+  color: #48A4B3;
 }
 
 a, a:hover {
   text-decoration: none !important;
+}
+a:hover{
+  color: #212529 !important;
+
 }
 
 .untree_co--site-section {
@@ -721,15 +726,15 @@ a, a:hover {
 }
 
 .readmore.primary {
-  color: #ff896b;
+  color: #48a4b3;
 }
 
 .readmore.primary:before {
-  background: #ff896b;
+  background: #48a4b3;
 }
 
 .readmore.primary:hover {
-  color: #ff896b;
+  color: #48a4b3;
 }
 
 .readmore.reverse:before {
@@ -788,7 +793,7 @@ a, a:hover {
 }
 
 .icons-top.icons-dark li a:hover {
-  background: #ff896b;
+  background: #48a4b3;
 }
 
 /* Site Nav */
@@ -1048,7 +1053,7 @@ a, a:hover {
 }
 
 .sticky-wrapper .untree_co--site-nav.dark .site-nav-ul > li > a:before {
-  background: #ff896b;
+  background: #48a4b3;
 }
 
 .sticky-wrapper .untree_co--site-nav.dark .burger:before, .sticky-wrapper .untree_co--site-nav.dark .burger span, .sticky-wrapper .untree_co--site-nav.dark .burger:after {
@@ -1071,13 +1076,17 @@ a, a:hover {
 .sticky-wrapper.is-sticky .untree_co--site-nav a {
   color: #000;
 }
+.sticky-wrapper.is-sticky  .imgLogo {
+  filter: none;
+}
+
 
 .sticky-wrapper.is-sticky .untree_co--site-nav .site-nav-ul li a {
   color: #000;
 }
 
 .sticky-wrapper.is-sticky .untree_co--site-nav .site-nav-ul > li > a:before {
-  background: #ff896b;
+  background: #48A4B3;
 }
 
 .sticky-wrapper.is-sticky .icons-top li a {
@@ -1087,7 +1096,7 @@ a, a:hover {
 }
 
 .sticky-wrapper.is-sticky .icons-top li a:hover {
-  background: #ff896b;
+  background: #48a4b3;
   color: #fff;
 }
 
@@ -1183,7 +1192,7 @@ a, a:hover {
 }
 
 .untree_co--site-mobile-menu ul a:hover, .untree_co--site-mobile-menu ul li a:hover {
-  color: #ff896b;
+  color: #48a4b3;
 }
 
 .untree_co--site-mobile-menu ul > li > ul > li > a {
@@ -1453,7 +1462,7 @@ span[data-jarallax-element] {
 
 .cta h3 a:before {
   content: "";
-  background: #ff896b;
+  background: #48a4b3;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -1478,7 +1487,7 @@ span[data-jarallax-element] {
 .testimony-29101 .text {
   width: 60%;
   padding: 7rem 4rem;
-  background: #ff896b;
+  background: #48a4b3;
 }
 
 .testimony-29101 .text blockquote {
@@ -1577,7 +1586,7 @@ span[data-jarallax-element] {
 
 .slide-one-item .owl-dots .owl-dot.active > span {
   width: 15px;
-  background: #ff896b;
+  background: #48a4b3;
 }
 
 .thumbnail {

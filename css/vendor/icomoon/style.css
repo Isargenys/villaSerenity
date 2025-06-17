@@ -4920,3 +4920,13 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+
+.imgLogo{
+  width: 40%;
+  height: auto;
+  filter: brightness(0) invert(1);
+}
+
+a.navbar-brand {
+  width: 30%;
+}
