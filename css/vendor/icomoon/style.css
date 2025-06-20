@@ -4930,7 +4930,7 @@ a.navbar-brand {
 }
 
 @media screen and (max-width:768px) {
-  .imgLogo {
+  .imgLogo, .imglogo2{
             width: 105px !important;
             height: auto;
             position: relative;
