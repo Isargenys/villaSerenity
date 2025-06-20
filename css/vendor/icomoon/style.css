@@ -4928,3 +4928,15 @@
 a.navbar-brand {
   width: 30%;
 }
+
+@media screen and (max-width:768px) {
+  .imgLogo {
+            width: 105px !important;
+            height: auto;
+            position: relative;
+            top: -4px !important;
+            left: -18px !important;
+
+  }
+  
+}
